@@ -1,4 +1,4 @@
-# CarValue
+# 🚗 CarValue
 Used-car price prediction &amp; depreciation analyzer
 
 ### 1. Project Overview
